@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.7.2](https://github.com/garethgeorge/backrest/compare/v1.7.1...v1.7.2) (2025-01-30)
+
+
+### Bug Fixes
+
+* hooks fail to populate a non-nil Plan variable for system tasks ([f119e1e](https://github.com/garethgeorge/backrest/commit/f119e1e979a464e508edcb13404691ad45ac3d64))
+* misaligned favicon ([#660](https://github.com/garethgeorge/backrest/issues/660)) ([403458f](https://github.com/garethgeorge/backrest/commit/403458f70705258906258fa77d4668d70ac176e3))
+* restore path on Windows ([#631](https://github.com/garethgeorge/backrest/issues/631)) ([1a9ecc5](https://github.com/garethgeorge/backrest/commit/1a9ecc58390957523f21c6a55c809b0bf22cf978))
+
 ## [1.7.1](https://github.com/garethgeorge/backrest/compare/v1.7.0...v1.7.1) (2025-01-24)
 
 
